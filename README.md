@@ -1,6 +1,6 @@
-For this project, I wanted to visually highlight how different choices can lead to different outcomes. Often times, people are lead to decide between focusing on their career and focusing on their family.
+# "Family vs Career"
 
-Therefore, my project is called "Family vs Career" and the name says it all.
+For this project, I wanted to visually highlight how different choices can lead to different outcomes. Often times, people are lead to decide between focusing on their career and focusing on their family.
 
 I used Adobe Photoshop to edit, layer, and merege photos together that I licensed through Adobe Stock.
 
